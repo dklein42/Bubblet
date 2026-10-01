@@ -1,0 +1,33 @@
+Bubblet-Worklog by Daniel Klein
+-------------------------------
+ToDo:
+- write ReLoad-function for complete testing and reloading of surfaces!
+- Window gets black and game remains unresponsive after screensaver under WinNT? /Frank
+- 'jipeee'-sound if many Bubbles are popped at once /Markus
+- 'endless'-gametype! Bubbles falling down from top... /Markus
+
+v1.00 -- 08-09-99 -- Official Release!!
+- changed Bubble-Bonusses (4-0 Bubbles left): 25,50,100,200,500 Pts. (before: 20,40,60,80,100)
+- new (one-move) undo for registered Bubblet
+- created Register/SharewareInfo-Screens
+- two different builds now: Shareware/Registered
+
+v0.93 -- 06-22-99 -- BETA 2
+- changed from WM_TIMER-Messages to Multimedia-Timer -> Smoother Animations
+- bubble-animation is twice as fast now (and smooooooth hehe)
+- fixed mouse-'flickering' bug
+
+v0.92 -- 06-08-99
+- several bug-fixes
+- fixed 'permanent-screenrefresh-bug' thx Bones!
+- Bubblet window pops up centered on the screen now
+
+v0.91 -- 06-06-99 -- BETA 1
+- fixed 'broken-sound'-bug at startup
+- move bubbles before showing GameScore
+- changed highscore- sound
+
+v0.90 -- 06-05-99 -- Started Logfile
+- changed cursor-shape
+- reworked/rearranged some bitmaps/backgrounds
+- 'Loading Bubblet...'-Screen at startup

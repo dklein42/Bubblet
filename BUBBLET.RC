@@ -1,0 +1,127 @@
+/****************************************************************************
+
+
+bubblet.rc
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+#include "bubblet.rh"
+
+
+
+BUBBLET_ICON ICON "bubblet.ico"
+
+BUBBLET_CURSOR CURSOR "bubblet.cur"
+
+
+BKG BITMAP "bkg.bmp"
+
+paper_01x BITMAP "paper01x.bmp"
+
+
+paper_02 BITMAP "paper02.bmp"
+
+
+logo_1 BITMAP "logo1.bmp"
+
+
+scoretab BITMAP "scoretab.bmp"
+
+
+gametab BITMAP "gametab.bmp"
+
+
+setupmap BITMAP "setupmap.bmp"
+
+
+check BITMAP "check.bmp"
+
+
+btn_exit BITMAP "btn_exit.bmp"
+
+
+btn_exit_x BITMAP "btn_ex~1.bmp"
+
+
+btn_about_x BITMAP "btn_ab~1.bmp"
+
+
+btn_about BITMAP "btn_ab~2.bmp"
+
+
+btn_setu BITMAP "btn_setu.bmp"
+
+
+btn_setup_x BITMAP "btn_se~1.bmp"
+
+
+btn_scor BITMAP "btn_scor.bmp"
+
+
+btn_scor_x BITMAP "btn_sc~1.bmp"
+
+
+btn_new BITMAP "btn_new.bmp"
+
+
+btn_new_x BITMAP "btn_ne~1.bmp"
+
+
+btn_end BITMAP "btn_end.bmp"
+
+
+btn_end_x BITMAP "btn_en~1.bmp"
+
+
+btn_ok BITMAP "btn_ok.bmp"
+
+
+btn_ok_x BITMAP "btn_ok_x.bmp"
+
+
+btn_done BITMAP "btn_done.bmp"
+
+
+btn_done_x BITMAP "btn_do~1.bmp"
+
+
+btn_reset BITMAP "btn_re~1.bmp"
+
+
+btn_reset_x BITMAP "btn_re~3.bmp"
+
+
+btn_reg BITMAP "btn_reg.bmp"
+
+
+btn_reg_x BITMAP "btn_re~2.bmp"
+
+
+btn_mask BITMAP "btnmask.bmp"
+
+
+bubble_1 BITMAP "bubble_1.bmp"
+
+
+bubble_2 BITMAP "bubble_2.bmp"
+
+
+bubble_3 BITMAP "bubble_3.bmp"
+
+
+bubble_4 BITMAP "bubble_4.bmp"
+
+
+bubble_5 BITMAP "bubble_5.bmp"
+
+
+
+
+btn_undo BITMAP "btn_undo.bmp"
+
+
+btn_undo_x BITMAP "btn_un~1.bmp"
+

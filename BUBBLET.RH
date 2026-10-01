@@ -1,0 +1,48 @@
+/****************************************************************************
+
+
+bubblet.rh
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+#define btn_undo_x	135
+#define btn_undo	134
+#define bubble_5	133
+#define bubble_4	132
+#define bubble_3	131
+#define bubble_2	130
+#define bubble_1	129
+#define btn_mask	128
+#define btn_reg_x	127
+#define btn_reg	126
+#define btn_reset_x	125
+#define btn_reset	124
+#define btn_done_x	123
+#define btn_done	122
+#define btn_ok_x	121
+#define btn_ok	120
+#define btn_end_x	119
+#define btn_end	118
+#define btn_new_x	117
+#define btn_new	116
+#define btn_scor_x	115
+#define btn_scor	114
+#define btn_setup_x	113
+#define btn_setu	112
+#define btn_about_x	111
+#define btn_about	110
+#define btn_exit_x	109
+#define btn_exit	108
+#define check	107
+#define setupmap	106
+#define gametab	105
+#define scoretab	104
+#define logo_1	103
+#define paper_02	102
+#define paper_01x	101
+#define BKG	100
+#define BUBBLET_ICON	1
+#define BUBBLET_CURSOR	2
